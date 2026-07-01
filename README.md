@@ -19,7 +19,7 @@ The project combines data preprocessing, feature engineering, exploratory data a
 ## Machine Learning Workflow
 
 <p align="center">
-<img src="results/workflow.png" width="900">
+  <img src="results/workflow.png" width="900">
 </p>
 
 ---
@@ -116,7 +116,7 @@ skincare-behavior-segmentation/
 ## 1. Temporal Trend Analysis
 
 <p align="center">
-<img src="results/temporal_trend_analysis.png" width="850">
+  <img src="results/temporal_trend_analysis.png" width="850">
 </p>
 
 The temporal analysis illustrates how global interest in aesthetic and organic skincare evolved over time, providing the temporal context for subsequent behavioural analysis.
@@ -126,7 +126,7 @@ The temporal analysis illustrates how global interest in aesthetic and organic s
 ## 2. Geographical Preference Analysis
 
 <p align="center">
-<img src="results/country_preference_gap.png" width="850">
+  <img src="results/country_preference_gap.png" width="850">
 </p>
 
 Country-level analysis highlights substantial geographical variation in skincare preferences, demonstrating that consumer interests differ considerably across international markets.
@@ -136,7 +136,7 @@ Country-level analysis highlights substantial geographical variation in skincare
 ## 3. Country-Level Distribution Analysis
 
 <p align="center">
-<img src="results/country_distribution_scatter.png" width="700">
+  <img src="results/country_distribution_scatter.png" width="750">
 </p>
 
 The scatter plot compares aesthetic and organic skincare preferences across countries, revealing regional variability and balanced market segments.
@@ -146,7 +146,7 @@ The scatter plot compares aesthetic and organic skincare preferences across coun
 ## 4. Correlation Analysis
 
 <p align="center">
-<img src="results/correlation_heatmap.png" width="700">
+  <img src="results/correlation_heatmap.png" width="750">
 </p>
 
 Correlation analysis indicates only weak relationships between global skincare trends and consumer ratings, suggesting that consumer behaviour is influenced by additional factors beyond search popularity.
@@ -156,7 +156,7 @@ Correlation analysis indicates only weak relationships between global skincare t
 ## 5. Behavioural Segmentation using K-Means
 
 <p align="center">
-<img src="results/kmeans_clusters.png" width="750">
+  <img src="results/kmeans_clusters.png" width="750">
 </p>
 
 K-Means clustering identified distinct behavioural segments based on product ratings and trend exposure, demonstrating that products exposed to similar market trends can receive different levels of consumer satisfaction.
